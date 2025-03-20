@@ -19,9 +19,9 @@ URL = "http://books.toscrape.com/"
 #copy paste git code from github
 
 
-#git add .
-#git commit -m "Your Message"
-#git push
+#git add .       -track files and folders
+#git commit -m "Your Message"         -save changes
+#git push                        -upload changes to github
 
 
 def scrape_books(url):
